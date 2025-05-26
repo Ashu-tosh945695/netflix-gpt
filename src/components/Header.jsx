@@ -21,7 +21,7 @@ const Navigate = useNavigate();
           <div className="flex p-2">
             <img className="w-12 h-12" src="/assets/profile_img.png" />
             <button onClick={handleSignOut} className="font-bold text-white">
-              (Sign out)
+              (Sign in)
             </button>
           </div>
     
